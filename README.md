@@ -1,2 +1,2 @@
 ## DataScience 준비
-https://www.datamanim.com/dataset/99_pandas/pandasMain.html 예제
+전처리 튜토리얼: https://www.datamanim.com/dataset/99_pandas/pandasMain.html
